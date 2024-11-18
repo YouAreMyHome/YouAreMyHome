@@ -2,18 +2,34 @@
   <img src="https://res.cloudinary.com/dackig67m/image/upload/v1730394983/ebeab5a5-cc06-4d0c-a700-4c6aa3114d05_oetdts.gif" alt="Banner" />
 </p>
 
-# 👋 Chào mừng đến với GitHub của Mình!
+<h1 align="center">🌟 Chào mừng đến với GitHub của Mình! 🌟</h1>
 
-### 🌟 Giới thiệu
-Xin chào! Mình là **Lê Trọng Nghĩa**, một sinh viên năm 3 ngành Công nghệ Thông tin, chuyên về **Công nghệ Phần mềm**. Mục tiêu của mình là trở thành một **Developer chuyên nghiệp**, luôn học hỏi và khám phá những công nghệ mới.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/your-username?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/-Open%20Source-%23f39c12" alt="Open Source Enthusiast" />
+</p>
+
+### 🌀 *Let’s Start with a Little Fun*  
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
+</p>
+---
+
+### 🌟 **Giới thiệu**
+Chào bạn! Mình là **Lê Trọng Nghĩa**, một **developer** yêu thích sáng tạo và khám phá các công nghệ mới. Hiện tại, mình đang học tập và làm việc với mong muốn trở thành một chuyên gia trong lĩnh vực **phần mềm**. 🌐
+
+🛠 **Sở thích công nghệ**:
+- 💻 Code mọi lúc, mọi nơi!
+- 📚 Học hỏi những điều mới mỗi ngày.
+- 🛠 Xây dựng các dự án với giá trị thực tế.
 
 ---
 
-### 💻 Kỹ năng & Công cụ
-- **Ngôn ngữ:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) 
-- **Frameworks:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
-- **Cơ sở dữ liệu:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
-- **Công cụ:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+### 🔥 **Kỹ năng & Công cụ**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,git,vscode" alt="Skills" />
+</p>
 
 ---
 
@@ -32,6 +48,12 @@ Xin chào! Mình là **Lê Trọng Nghĩa**, một sinh viên năm 3 ngành Côn
 - Phát triển kỹ năng Full-Stack với các công nghệ mới.
 - Đóng góp cho các dự án mã nguồn mở.
 
+---
+### 📊 **Thống kê GitHub của mình**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak Stats" width="50%" />
+</p>
 ---
 
 ### 🤝 Kết nối với tôi
