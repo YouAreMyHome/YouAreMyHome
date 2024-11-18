@@ -1,12 +1,6 @@
 <p align="center">
   <img src="https://res.cloudinary.com/dackig67m/image/upload/v1731950987/KIROKAZE_ktdasp.gif" alt="Banner" width="100%" />
 </p>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Người ghé qua<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
 <h1 align="center">🌟 Chào mừng đến với GitHub của Mình! 🌟</h1>
 
 <p align="center">
