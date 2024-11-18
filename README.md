@@ -55,6 +55,7 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 ### 📖 **Mục tiêu học tập**
 - Khám phá sâu về **AI & Machine Learning**.
 - Cải thiện kỹ năng Full-Stack qua các dự án thực tế.
+
 - Đóng góp tích cực vào các dự án mã nguồn mở.
 
 ---
