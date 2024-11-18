@@ -1,4 +1,4 @@
-# 👋 Chào mừng đến với GitHub của Nghĩa!
+# 👋 Chào mừng đến với GitHub của Mình!
 
 ### 🌟 Giới thiệu
 Xin chào! Mình là **Lê Trọng Nghĩa**, một sinh viên năm 3 ngành Công nghệ Thông tin, chuyên về **Công nghệ Phần mềm**. Mục tiêu của mình là trở thành một **Developer chuyên nghiệp**, luôn học hỏi và khám phá những công nghệ mới.
