@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner" />
+  <img src="https://res.cloudinary.com/dackig67m/image/upload/v1730394983/ebeab5a5-cc06-4d0c-a700-4c6aa3114d05_oetdts.gif" alt="Banner" />
 </p>
 
 # 👋 Chào mừng đến với GitHub của Mình!
