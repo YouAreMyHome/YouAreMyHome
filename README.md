@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner" />
+</p>
+
 # 👋 Chào mừng đến với GitHub của Mình!
 
 ### 🌟 Giới thiệu
