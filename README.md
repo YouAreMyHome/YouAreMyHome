@@ -22,6 +22,7 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 - 🛠 Phát triển các dự án thực tế với công nghệ hiện đại.
 
 ---
+
 ### 🎨 **Rắn săn mồi**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
@@ -57,17 +58,6 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 
 ---
 
-### 🎮 **Chơi Mini Game GitHub**
-<p align="center">
-  <a href="https://mariosouto.com/personal-github-readme-game/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/99184393/179353685-872cbe8c-c74c-4686-a683-276c53d5e5ff.gif" alt="Click Me to Play!" />
-  </a>
-</p>
-
-
-
----
-
 ### 📊 **Thống kê GitHub**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YouAreMyHome&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
@@ -99,3 +89,13 @@ _"Mỗi dòng code là một bước nhỏ đưa bạn đến gần hơn với g
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="50%" />
 </p>
+
+---
+
+### 💧 **Hiệu ứng Mưa**  
+Để thêm hiệu ứng mưa, bạn có thể sử dụng một ảnh GIF có hiệu ứng mưa:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9kXwmDLZtn5S/giphy.gif" alt="Rain Effect" width="100%" />
+</p>
+
