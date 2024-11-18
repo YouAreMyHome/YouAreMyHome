@@ -35,9 +35,9 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
    🚀 **Công nghệ sử dụng:** React, Node.js, MongoDB.  
    🌐 [Link dự án](https://github.com/Waito3007/WEB-DAT-PHONG.git)
 
-2. **[Tên dự án khác]**  
-   📄 Miêu tả ngắn gọn dự án.  
-   🌐 [Link tới dự án](#)
+2. **Mạng Xã Hội ClaraZone**  
+   📄 **Công nghệ sử dụng:** Java,  Firebase.  
+   🌐 [Link tới dự án]([#](https://github.com/Waito3007/.ClaraZone.git))
 
 ---
 
