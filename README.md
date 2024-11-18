@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dackig67m/image/upload/v1730394983/ebeab5a5-cc06-4d0c-a700-4c6aa3114d05_oetdts.gif" alt="Banner" />
+  <img src="https://res.cloudinary.com/dackig67m/image/upload/v1730394983/ebeab5a5-cc06-4d0c-a700-4c6aa3114d05_oetdts.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">🌟 Chào mừng đến với GitHub của Mình! 🌟</h1>
@@ -10,19 +10,16 @@
   <img src="https://img.shields.io/badge/-Open%20Source-%23f39c12" alt="Open Source Enthusiast" />
 </p>
 
-### 🌀 *Let’s Start with a Little Fun*  
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
-</p>
 ---
 
 ### 🌟 **Giới thiệu**
-Chào bạn! Mình là **Lê Trọng Nghĩa**, một **developer** yêu thích sáng tạo và khám phá các công nghệ mới. Hiện tại, mình đang học tập và làm việc với mong muốn trở thành một chuyên gia trong lĩnh vực **phần mềm**. 🌐
+👋 Xin chào! Mình là **Lê Trọng Nghĩa**, một **developer** với niềm đam mê mãnh liệt trong việc sáng tạo và học hỏi những công nghệ mới.  
+Hiện tại, mình đang học tập và làm việc với mục tiêu trở thành một chuyên gia **phần mềm**. 🌐  
 
-🛠 **Sở thích công nghệ**:
-- 💻 Code mọi lúc, mọi nơi!
-- 📚 Học hỏi những điều mới mỗi ngày.
-- 🛠 Xây dựng các dự án với giá trị thực tế.
+📖 **Sở thích công nghệ**:
+- 💻 Yêu thích xây dựng ứng dụng web.
+- 📚 Học hỏi các kỹ năng mới mỗi ngày.
+- 🛠 Phát triển các dự án thực tế với công nghệ hiện đại.
 
 ---
 
@@ -33,41 +30,59 @@ Chào bạn! Mình là **Lê Trọng Nghĩa**, một **developer** yêu thích s
 
 ---
 
-### 📌 Dự án nổi bật
+### 📌 **Dự án nổi bật**
 1. **Hệ thống đặt phòng khách sạn**  
-   🚀 Xây dựng bằng React, Node.js, và MongoDB.  
+   🚀 **Công nghệ sử dụng:** React, Node.js, MongoDB.  
+   🌐 [Link dự án](https://github.com/Waito3007/WEB-DAT-PHONG.git)
 
 2. **[Tên dự án khác]**  
-   📄 Miêu tả ngắn gọn về dự án.  
-   🌐 [Link tới dự án](https://github.com/Waito3007/WEB-DAT-PHONG.git)
+   📄 Miêu tả ngắn gọn dự án.  
+   🌐 [Link tới dự án](#)
 
 ---
 
-### 📖 Mục tiêu học tập
-- Tìm hiểu sâu hơn về **AI & Machine Learning**.
-- Phát triển kỹ năng Full-Stack với các công nghệ mới.
-- Đóng góp cho các dự án mã nguồn mở.
+### 📖 **Mục tiêu học tập**
+- Khám phá sâu về **AI & Machine Learning**.
+- Cải thiện kỹ năng Full-Stack qua các dự án thực tế.
+- Đóng góp tích cực vào các dự án mã nguồn mở.
 
 ---
+
+### 🌀 **Fun Time**
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
+</p>
+
+---
+
 ### 📊 **Thống kê GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YouAreMyHome&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YouAreMyHome&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouAreMyHome&theme=radical" alt="GitHub Streak Stats" width="50%" />
 </p>
 
 ---
 
-### 🤝 Kết nối với tôi
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/consauchetduoi)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:ltn66441@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/YouAreMyHome)
+### 🤝 **Kết nối với mình**
+<p align="center">
+  <a href="https://www.facebook.com/consauchetduoi" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:ltn66441@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/YouAreMyHome" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-### ✨ Fun fact
+### ✨ **Fun Fact**
 _"Mỗi dòng code là một bước nhỏ đưa bạn đến gần hơn với giấc mơ!"_
 
-<!---
-YouAreMyHome/YouAreMyHome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="50%" />
+</p>
