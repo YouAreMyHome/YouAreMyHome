@@ -19,7 +19,7 @@ Xin chào! Mình là **Lê Trọng Nghĩa**, một sinh viên năm 3 ngành Côn
 
 2. **[Tên dự án khác]**  
    📄 Miêu tả ngắn gọn về dự án.  
-   🌐 [Link tới dự án](#)
+   🌐 [Link tới dự án](https://github.com/Waito3007/WEB-DAT-PHONG.git)
 
 ---
 
