@@ -57,10 +57,7 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 
 ---
 
-### 🌀 **Fun Time**
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
-</p>
+<p align="center"> <a href="https://mariosouto.com/personal-github-readme-game/" target="_blank"> <img src="https://user-images.githubusercontent.com/99184393/179353685-872cbe8c-c74c-4686-a683-276c53d5e5ff.gif" alt="Click Me to Play!" /> </a> </p>
 
 ---
 
