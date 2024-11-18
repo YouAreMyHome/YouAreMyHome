@@ -57,12 +57,13 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 
 ---
 
-### 🎮 **Chơi trò chơi Snake!**
+### 🎮 **Chơi Tetris**
 <p align="center">
-  <a href="https://github.com/Platane/snk" target="_blank">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
+  <a href="https://tetris.github.io/" target="_blank">
+    <img src="https://media.giphy.com/media/gsZ1vM2LJAwJsXEkCy/giphy.gif" alt="Play Tetris" width="300"/>
   </a>
 </p>
+
 
 ---
 
