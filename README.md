@@ -22,6 +22,15 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 - 🛠 Phát triển các dự án thực tế với công nghệ hiện đại.
 
 ---
+### 🎨 **Hiệu ứng động**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YouAreMyHome&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
 
 ### 🔥 **Kỹ năng & Công cụ**
 <p align="center">
@@ -37,7 +46,7 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 
 2. **Mạng Xã Hội ClaraZone**  
    📄 **Công nghệ sử dụng:** Java,  Firebase.  
-   🌐 [Link tới dự án]([#](https://github.com/Waito3007/.ClaraZone.git))
+   🌐 [Link tới dự án](https://github.com/Waito3007/.ClaraZone.git)
 
 ---
 
