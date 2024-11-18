@@ -81,8 +81,8 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 
 ---
 
-### ✨ **Fun Fact**
-_"Mỗi dòng code là một bước nhỏ đưa bạn đến gần hơn với giấc mơ!"_
+### ✨ **My Quest**
+_"You look at a star for two reasons, because it is luminous, and because it is impenetrable."_
 
 ---
 
