@@ -5,8 +5,8 @@
 <h1 align="center">🌟 Chào mừng đến với GitHub của Mình! 🌟</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/your-username?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/YouAreMyHome?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/YouAreMyHome?style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/-Open%20Source-%23f39c12" alt="Open Source Enthusiast" />
 </p>
 
