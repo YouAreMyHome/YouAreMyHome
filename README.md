@@ -90,9 +90,4 @@ _"Mỗi dòng code là một bước nhỏ đưa bạn đến gần hơn với g
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="50%" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/M9kXwmDLZtn5S/giphy.gif" alt="Rain Effect" width="100%" />
-</p>
 
