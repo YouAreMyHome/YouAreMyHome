@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dackig67m/image/upload/v1730394983/ebeab5a5-cc06-4d0c-a700-4c6aa3114d05_oetdts.gif" alt="Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dackig67m/image/upload/v1731950987/KIROKAZE_ktdasp.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">🌟 Chào mừng đến với GitHub của Mình! 🌟</h1>
