@@ -49,11 +49,12 @@ Chào bạn! Mình là **Lê Trọng Nghĩa**, một **developer** yêu thích s
 - Đóng góp cho các dự án mã nguồn mở.
 
 ---
-### 📊 **Thống kê GitHub của mình**
+### 📊 **Thống kê GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YouAreMyHome&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouAreMyHome&theme=radical" alt="GitHub Streak Stats" width="50%" />
 </p>
+
 ---
 
 ### 🤝 Kết nối với tôi
