@@ -7,7 +7,6 @@
   Người ghé qua<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
----
 <h1 align="center">🌟 Chào mừng đến với GitHub của Mình! 🌟</h1>
 
 <p align="center">
