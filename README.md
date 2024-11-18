@@ -58,7 +58,7 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 ### 📊 **Thống kê GitHub**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YouAreMyHome&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouAreMyHome&theme=radical" alt="GitHub Streak Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAreMyHome&layout=compact&theme=radical" alt="Most Used Languages" width="50%" />
 </p>
 
 ---
