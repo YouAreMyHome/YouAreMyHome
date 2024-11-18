@@ -22,7 +22,7 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 - 🛠 Phát triển các dự án thực tế với công nghệ hiện đại.
 
 ---
-### 🎨 **Hiệu ứng động**
+### 🎨 **Rắn săn mồi**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
