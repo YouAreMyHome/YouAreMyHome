@@ -23,7 +23,7 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 
 ---
 
-### 🎨 **Rắn săn mồi**
+### 🎨 **Rắn săn commit**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
@@ -91,9 +91,6 @@ _"Mỗi dòng code là một bước nhỏ đưa bạn đến gần hơn với g
 </p>
 
 ---
-
-### 💧 **Hiệu ứng Mưa**  
-Để thêm hiệu ứng mưa, bạn có thể sử dụng một ảnh GIF có hiệu ứng mưa:
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9kXwmDLZtn5S/giphy.gif" alt="Rain Effect" width="100%" />
