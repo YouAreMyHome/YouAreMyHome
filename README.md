@@ -87,7 +87,8 @@ _"Mỗi dòng code là một bước nhỏ đưa bạn đến gần hơn với g
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="50%" />
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=5770305764607494" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
+
 </p>
 
 
