@@ -87,7 +87,7 @@ _"Mỗi dòng code là một bước nhỏ đưa bạn đến gần hơn với g
 ---
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dackig67m/image/upload/v1731950987/KIROKAZE_ktdasp.gif" alt="Coding Gif" width="50%" />
+  <img src="https://res.cloudinary.com/dackig67m/image/upload/v1730394983/ebeab5a5-cc06-4d0c-a700-4c6aa3114d05_oetdts.gif" alt="Coding Gif" width="100%" />
 
 </p>
 
