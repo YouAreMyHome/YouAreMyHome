@@ -58,14 +58,11 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 - Đóng góp tích cực vào các dự án mã nguồn mở.
 
 ---
-
 ### 📊 **Thống kê GitHub**
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YouAreMyHome&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAreMyHome&layout=compact&theme=radical" alt="Most Used Languages" width="45%" />
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YouAreMyHome&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAreMyHome&layout=compact&theme=radical" alt="Most Used Languages" width="50%" />
+</p>
 ---
 
 ### 🤝 **Kết nối với mình**
