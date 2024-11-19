@@ -47,7 +47,7 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 
 2. **Mạng Xã Hội ClaraZone**  
    📄 **Công nghệ sử dụng:** Java,  Firebase.  
-   🌐 [Link tới dự án](https://github.com/Waito3007/.ClaraZone.git)
+   🌐 [Link dự án](https://github.com/Waito3007/.ClaraZone.git)
 
 ---
 
