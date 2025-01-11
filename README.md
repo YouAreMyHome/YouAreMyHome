@@ -35,7 +35,7 @@ Hiện tại, mình đang học tập và làm việc với mục tiêu trở th
 
 ### 🔥 **Kỹ năng & Công cụ**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,git,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,git,vscode" alt="Skills" />
 </p>
 
 ---
