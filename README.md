@@ -31,11 +31,6 @@ Mục tiêu của mình là tạo ra các sản phẩm ổn định, bảo mật
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YouAreMyHome&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
 ---
 
 ## Kỹ năng & Công cụ (Backend Focus)
